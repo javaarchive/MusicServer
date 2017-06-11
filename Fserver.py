@@ -32,7 +32,7 @@ def index():
     
 
 <p>
-this web music server was created by Raymond Peng
+this web music server was created by java archive
 </p>
     
     '''
